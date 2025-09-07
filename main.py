@@ -13,8 +13,8 @@ from email.message import EmailMessage
 
 # --- CONFIGURAÇÕES GERAIS ---
 # E-mail que será monitorado e usado para enviar as notificações
-MEU_EMAIL = "************"
-SENHA_DE_APP_GMAIL = "*****************"  # A mesma senha de app para IMAP e SMTP
+MEU_EMAIL = "contageral0113@gmail.com"
+SENHA_DE_APP_GMAIL = "pzhp kdzj vaag cbef"  # A mesma senha de app para IMAP e SMTP
 IMAP_SERVER = "imap.gmail.com"
 
 ## --- FUNÇÕES 'enviar_notificacao_morador' e 'interpretar_email_multa' ---
